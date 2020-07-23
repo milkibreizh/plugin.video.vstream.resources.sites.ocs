@@ -11,7 +11,7 @@ from resources.lib.handler.requestHandler import cRequestHandler
 from resources.lib.parser import cParser
 from resources.lib.comaddon import progress  #, VSlog, xbmc
  
-SITE_IDENTIFIER = 'a_tester_ocs'
+SITE_IDENTIFIER = 'ocs'
 SITE_NAME = 'TESTE OCS'
 SITE_DESC = 'programmes OCS'
 
